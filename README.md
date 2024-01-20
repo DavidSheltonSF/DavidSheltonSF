@@ -1,7 +1,5 @@
 ### Hi there! Im David Shelton 👋
 
-**DavidSheltonSF/davidsheltonsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👨‍💼  I’m not currently working 
 - 📖  I’m currently learning back-end
 
